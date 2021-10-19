@@ -25,6 +25,10 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 
 Time spent: **X** hours spent in total
 
+## Video Walkthrough
+
+<img src='http://g.recordit.co/WS4OoIjvfz.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+
 ## User Stories
 
 The following **required** functionality is completed:
@@ -45,6 +49,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/WS4OoIjvfz.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/KY4Z8p9mBl.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 
